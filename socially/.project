@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>socially</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>meteor</name>
+			<type>2</type>
+			<location>/home/dmitry/meteor-dev/socially</location>
+		</link>
+	</linkedResources>
+</projectDescription>
